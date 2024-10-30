@@ -1,0 +1,810 @@
+/** slide In Up Big **/
+
+.codexfadeIn.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexfadeIn figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexfadeIn figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+figcaption.mc-item__caption.codexContentBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+
+/** slide In Up **/
+
+.codexSlideInUp.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexSlideInUp figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexSlideInUp figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+
+
+/** slide In Up Big **/
+
+.codexSlideInUpBig.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexSlideInUpBig figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexSlideInUpBig figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+figcaption.mc-item__caption.codexContentBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+/** slide In U zoom In **/
+
+.codexSlideInUpZoomIN.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexSlideInUpZoomIN figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexSlideInUpZoomIN figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+
+/** slide In Up Big zoom In **/
+
+.codexSlideInUpBigZoomIn.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexSlideInUpBigZoomIn figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexSlideInUpBigZoomIn figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+figcaption.mc-item__caption.codexContentBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+/** flip Out Up **/
+
+.codexflipOutUp.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexflipOutUp figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexflipOutUp figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+figcaption.mc-item__caption.codexContentBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+
+/** flip Out Down **/
+
+.codexflipOutDown.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexflipOutDown figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexflipOutDown figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+figcaption.mc-item__caption.codexContentBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+/** flip Out Left **/
+
+.codexflipOutLeft.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexflipOutLeft figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexflipOutLeft figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+figcaption.mc-item__caption.codexContentBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+/** flip Out Right **/
+
+.codexflipOutRight.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexflipOutRight figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexflipOutRight figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+figcaption.mc-item__caption.codexContentBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+
+
+/** slideInUpBig zoomOut **/
+
+.codexslideInUpBigzoomOut.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexslideInUpBigzoomOut figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexslideInUpBigzoomOut figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+figcaption.mc-item__caption.codexContentBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+/** slideInDownBig zoomOut **/
+
+.codexslideInDownBigzoomOutt.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexslideInDownBigzoomOutt figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexslideInDownBigzoomOutt figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+figcaption.mc-item__caption.codexContentBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+/** slideInLeftBigt zoomOut **/
+
+.codexslideInLeftBigzoomOut.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexslideInLeftBigzoomOut figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexslideInLeftBigzoomOut figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+figcaption.mc-item__caption.codexContentBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+
+/** slide InRight Big zoomOut**/
+
+.codexslideInRightBigzoomOut.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexslideInRightBigzoomOut figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexslideInRightBigzoomOut figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+figcaption.mc-item__caption.codexContentBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+/** slide In Left Half **/
+
+.codexslideInLeftHalf.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexslideInLeftHalf figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexslideInLeftHalf figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+figcaption.mc-item__caption.codexContentBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+/** slide In Left Half **/
+
+.codexslideInRightHalf.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexslideInRightHalf figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexslideInRightHalf figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+figcaption.mc-item__caption.codexContentBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+
+/** slide In Left Half **/
+
+.codexszoomOut.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexszoomOut figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexszoomOut figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
+
+/** slide In Left Half **/
+
+.codexZoomOutUp.mc-item .mc-item__caption {
+  background-color: #7952b3 !important;
+  padding: 10px 0;
+}
+.codexZoomOutUp figcaption.mc-item__caption h3 {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.codexZoomOutUp figcaption.mc-item__caption p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: Ubuntu;
+}
+figcaption.mc-item__caption.codexContentBoxZoomOutUp div {
+  position: absolute;
+  bottom: 30px;
+  left: 0;
+  right: 0;
+}
+.social_icon {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.social_icon a i {
+  color: #fff;
+  font-size: 32px;
+  margin: 0 3px;  
+}
+/******** Responsiv Design *******/
+
+@media (max-width : 767px){ 
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+  
+} 
+@media (max-width : 479px) {
+  figure.mc-item {
+      margin-bottom: 50px;
+  }
+}
